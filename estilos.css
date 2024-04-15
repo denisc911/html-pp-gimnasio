@@ -1,0 +1,9 @@
+table {
+    border: 1px;
+    width: 100%;
+    border-collapse: collapse; /* Esto asegura que los bordes de las celdas se fusionen */
+}
+td, th {
+    border: 1px solid black;
+  }
+  

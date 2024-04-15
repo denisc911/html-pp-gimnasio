@@ -8,18 +8,14 @@ Gervasio tiene un gimnasio y le gustaría digitalizar sus horarios, así que te 
 
 ![](factura.png)
 
-Después de ver un vídeo de motivación del gran [Emilio Duró](https://youtu.be/c3mI4qCXCWo "El grande"), cree que hay que hacer una sección multimedia de gatitos y cascadas para poder crear ambiente antes de dar clases de Yoga.
+Después de ver un vídeo de motivación del gran [Emilio Duró](https://youtu.be/c3mIH4qCXCWo "El grande"), cree que hay que hacer una sección multimedia de gatitos y cascadas para poder crear ambiente antes de dar clases de Yoga.
 
 ## Requisitos ##
 
 :gear: Editor de texto.
 
 :gear: Plugin con livereload
-
-## Iteraciones ##
-
-1. Crea el archivo `index.html`
-
+gatitos
     1.1 Sin tener consideración de los atributos `rowspan` y `colspan`, replica la factura mostrada en el enunciado con una tabla completa aquí.
 
     1.2 Agrega `rowspan` y `colspan` según convenga
